@@ -6,7 +6,7 @@ function HomePage() {
   return (
     <>
       <Layout >
-        <Container sx={{ maxWidth: "1200px", margin: "auto", marginLeft: "12%" }} >
+        <Container sx={{ maxWidth: "1200px", margin: "auto", marginLeft: "20%" }} >
 
           <Grid
             container
